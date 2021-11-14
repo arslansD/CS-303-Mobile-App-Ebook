@@ -1,6 +1,6 @@
 # eBook App - Flutter UI
 
-<img src="blob/main/assets/images/logo.png">
+<img src="assets/images/logo.png">
 
 ### Student: Arslan Sultanbek uulu
 
