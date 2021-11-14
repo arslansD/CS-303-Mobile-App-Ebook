@@ -1,5 +1,7 @@
 # eBook App - Flutter UI
 
+<img src="blob/main/assets/images/logo.png">
+
 ### Student: Arslan Sultanbek uulu
 
 Flamingo is an electronic book (reading book) application designed by ﬂutter.
